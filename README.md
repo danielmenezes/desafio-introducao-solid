@@ -1,6 +1,6 @@
-# Desafio introducao ao SOLID
+# Desafio introdução ao SOLID 💡
 
-## ProjetO para praticar conceitos de SOLID no desenvolvimento de uma API.
+## Projeto para praticar conceitos de SOLID no desenvolvimento de uma API.
 
 ### Clone a aplicação
 $ git clone https://github.com/danielmenezes/desafio-introducao-solid
