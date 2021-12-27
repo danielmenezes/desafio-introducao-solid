@@ -11,4 +11,4 @@ $ yarn
 ### Execulte a aplicação
 $ yarn dev
 
-Dica: para testar a aplicação instale o Insomnia ou Postman
+Documentação e teste da API: http://localhost:3333/api-docs/
